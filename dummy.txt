@@ -1,8 +1,7 @@
 item 2
-item 2
 #we all love isootpes
 #yay isotopes
-
+deleted a line
 
 
 
